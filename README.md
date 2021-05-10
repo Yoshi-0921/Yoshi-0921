@@ -1,17 +1,18 @@
 <p align="center"> 
   <a href="https://github.com/Yoshi-0921/Yoshi-0921/">
     <img src="https://komarev.com/ghpvc/?username=Yoshi-0921" />
-  </a>
-  <a href="https://github.com/Yoshi-0921">
-    <img height="20" src="https://img.shields.io/github/followers/Yoshi-0921?label=followers&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/Yoshi0921">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Yoshi0921/posts.svg" />
-  </a>
-  <//qiita.com/Yoshi0921">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Yoshi0921/contributions.svg" />
   </a></p>
-<br>
+<p align="center"> 
+  <a href="https://twitter.com/0921yoshi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a><a>&emsp;&emsp;</a>
+  <a href="yoshinari.moto@fuji.waseda.jp">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a><a>&emsp;&emsp;</a>
+  <a href="https://www.linkedin.com/in/yoshinari-motokawa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p><br>
   
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yoshi-0921&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" /></p><br>
