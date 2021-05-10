@@ -15,7 +15,13 @@
 </p><br>
   
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yoshi-0921&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" /></p><br>
+  <a>
+    <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=Yoshi-0921&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+  </a>
+  <a>
+    <img align="center" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshi-0921&theme=calm" />
+  </a>
+</p><br>
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
