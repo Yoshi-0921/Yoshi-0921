@@ -25,7 +25,7 @@
 </a><br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yoshi-0921" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yoshi-0921&row=1&column=7" />
 </a>
 </p><br>
 
