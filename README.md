@@ -1,18 +1,4 @@
-<p align="center"> 
-  <a href="https://github.com/Yoshi-0921/Yoshi-0921/">
-    <img src="https://komarev.com/ghpvc/?username=Yoshi-0921" />
-  </a></p>
-<p align="center"> 
-  <a href="https://twitter.com/0921yoshi">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a><a>&emsp;&emsp;</a>
-  <a href="yoshinari.moto@fuji.waseda.jp">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a><a>&emsp;&emsp;</a>
-  <a href="https://www.linkedin.com/in/yoshinari-motokawa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p><br>
+# Hi, I'm Yoshi 👋
   
 <p align="center"> 
   <a>
@@ -42,4 +28,16 @@
   <img align="center" src="https://raw.githubusercontent.com/Yoshi-0921/Yoshi-0921/master/profile-summary-card-output/github/2-most-commit-language.svg" /><br>
   <img align="center" src="https://raw.githubusercontent.com/Yoshi-0921/Yoshi-0921/master/profile-summary-card-output/github/3-stats.svg" />
   <img align="center" src="https://raw.githubusercontent.com/Yoshi-0921/Yoshi-0921/master/profile-summary-card-output/github/4-productive-time.svg" />
+</p><br>
+
+<p align="center"> 
+  <a href="https://twitter.com/0921yoshi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a><a>&emsp;&emsp;</a>
+  <a href="mailto:yoshinari.moto@fuji.waseda.jp">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a><a>&emsp;&emsp;</a>
+  <a href="https://www.linkedin.com/in/yoshinari-motokawa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
