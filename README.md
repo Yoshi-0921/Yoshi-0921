@@ -1,5 +1,5 @@
 # Hi, I'm Yoshi 👋
-  [![wakatime](https://wakatime.com/badge/user/c4d9574d-d870-493a-bacd-ee2ad3023784.svg)](https://wakatime.com/@c4d9574d-d870-493a-bacd-ee2ad3023784)
+<a href="https://wakatime.com/@c4d9574d-d870-493a-bacd-ee2ad3023784"><img src="https://wakatime.com/badge/user/c4d9574d-d870-493a-bacd-ee2ad3023784.svg" alt="Total time coded since May 10 2021" /></a>
   
 <p align="center"> 
   <a>
