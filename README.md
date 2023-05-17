@@ -1,4 +1,5 @@
 # Hi, I'm Yoshi 👋
+  [![wakatime](https://wakatime.com/badge/user/c4d9574d-d870-493a-bacd-ee2ad3023784.svg)](https://wakatime.com/@c4d9574d-d870-493a-bacd-ee2ad3023784)
   
 <p align="center"> 
   <a>
@@ -12,14 +13,6 @@
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yoshi-0921&row=1&column=7" />
-</a></p><br>
-
-<p align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshi-0921" />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=Yoshi0921" />
 </a></p><br>
 
 <p align="center"> 
